@@ -6,7 +6,8 @@ I really love learning, improving, and progressing in my career path. Am i passi
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [deepthi.vantakula@gmal.com](mailto:deepthi.vantakula@gmal.com)
-* 🧠  I'm learning data science
+* 🧠  I'm learning Data Science
+* 🤝  I'm open to collaborating on Data Analyst, Machine Learning, NLP and Deep Learning
 
 ### Skills
 
