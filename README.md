@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepthi Vantakula
-=========================================================================================================================================
+Hi 👋 My name is Deepthi Vantakula
+==================================
 
 I really love learning, improving, and progressing in my career path. Am i passionate about data science
 --------------------------------------------------------------------------------------------------------
